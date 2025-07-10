@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "@studio-freight/lenis": "^0.2.24",
+    "caniuse-lite": "^1.0.30001727",
     "gsap": "^3.10.4",
     "vercel": "^27.2.0"
   }
